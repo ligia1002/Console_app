@@ -1,0 +1,6 @@
+5
+Savarina 20 0 
+Amandina 10 1 50
+Ecler 50 0
+Rafaelo 10 0
+Tavalita 60 0
